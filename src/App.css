@@ -288,10 +288,10 @@ background-color:  #d7727c;
   margin: 0 auto;
   padding-top: 50px;
 }
-.avatar-wrapper img{
+/* .avatar-wrapper img{
   width: 300px;
   height: 400px;
-}
+} */
 .fitting-room-controls{
   position: fixed;
   bottom: -1px;
